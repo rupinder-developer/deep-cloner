@@ -14,7 +14,7 @@
     "deep-cloner"
   ],
   "author": "Rupinder Singh",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rupinder-developer/deep-cloner/issues"
   },
