@@ -15,9 +15,9 @@ $ npm install deep-cloner
 const clone = require('deep-cloner');
 
 const x = { foo: { bar: 'bazinga' } };  // initial value of x
-const y = clone(x);                 // clone x -> y
+const y = clone(x);                     // clone x -> y
 
-x.foo.bar = 'foo';                  // update x
+x.foo.bar = 'foo';                      // update x
 
 console.log(x);               
 console.log(y);                     
