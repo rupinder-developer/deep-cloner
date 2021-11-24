@@ -1,0 +1,22 @@
+{
+  "name": "deep-cloner",
+  "version": "1.0.0",
+  "description": "Deep cloning of arrays and objects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupinder-developer/deep-cloner.git"
+  },
+  "keywords": [
+    "deep-cloner"
+  ],
+  "author": "Rupinder Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupinder-developer/deep-cloner/issues"
+  },
+  "homepage": "https://github.com/rupinder-developer/deep-cloner#readme"
+}
